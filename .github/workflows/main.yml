@@ -1,0 +1,7 @@
+name: validar y simular un deploy
+
+on:
+  push:
+      branches: ["main"]
+permissions:
+  contents: read
