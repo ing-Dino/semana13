@@ -2,7 +2,7 @@ name: Validar y simular deploy
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
 permissions:
   contents: read
 
